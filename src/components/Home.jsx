@@ -65,6 +65,34 @@ export default function Home() {
             );
           })}
         </div>
+        <div className="home-body">
+          <div className="home-body-mosts">
+            <div className="home-body-mosts-header">
+              <div className="home-body-mosts-header-left">
+                <span>Trending</span>
+                <span>Top</span>
+              </div>
+              <div className="home-body-mosts-header-right">
+                <div className="mosts-timer">
+                  <span>24 h</span> <i className="fa-solid fa-chevron-down"></i>
+                </div>
+                <div className="chains">
+                  <span className="all-chains">All Chains</span>
+                  <i className="fa-brands fa-connectdevelop"></i>
+                  <i className="fa-brands fa-atlassian"></i>
+                  <i className="fa-brands fa-airbnb"></i>
+                  <i className="fa-brands fa-ethereum"></i>
+                  <i className="fa-brands fa-battle-net"></i>
+                  <i className="fa-brands fa-opera"></i>
+                  <i className="fa-solid fa-infinity"></i>
+                </div>
+                <div className="mosts-all">
+                  <span className="view-all">view All</span>
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
       </div>
     </>
   );
