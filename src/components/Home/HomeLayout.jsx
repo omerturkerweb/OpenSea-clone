@@ -12,7 +12,6 @@ export default function HomeLayout() {
       } else if (pageY < 1) {
         headerRef.current.style.backgroundColor = "transparent";
       }
-      console.log(pageY);
     });
   }, []);
   return (
