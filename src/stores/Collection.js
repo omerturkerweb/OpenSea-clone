@@ -107,7 +107,6 @@ export const Collection = createSlice({
           " https://public.nftstatic.com/static/nft/res/nft-cex/S3/1666606966635_mhfz6onyjqnj3e1hvyqymavmvzrir9fw.gif",
       },
     ],
-    currentColectionPage: "trending",
     reducers: {},
   },
 });
