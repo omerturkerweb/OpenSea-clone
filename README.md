@@ -1,3 +1,34 @@
+
+
+
+
+# Open Sea Official WebSite Clone
+
+I made it Open Sea official website clone  using ReactJs and Sass.
+
+
+
+
+    
+## Used Technologies
+
+- JavaScript
+- SASS/SCSS
+- React
+- Redux
+
+
+## Screenshots
+
+![ScreenShot](https://img001.prntscr.com/file/img001/7AFQ3YUCQNGFwhuKrc-9kw.png)
+![ScreenShot](https://img001.prntscr.com/file/img001/eEFzbBq8TI-4hEoheiMbVA.png)
+![ScreenShot](https://img001.prntscr.com/file/img001/clibZEdeRCyU13K4DVLgJw.png)
+
+## Open Sea Official Web Site
+https://opensea.io/
+
+  
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
